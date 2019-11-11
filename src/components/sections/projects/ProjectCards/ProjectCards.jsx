@@ -89,9 +89,9 @@ const ProjectCards = () => {
         {renderCards(data)}
       </Container>
 
-      <div className={styles.decoratorImg}>
+      {/* <div className={styles.decoratorImg}>
         <img src={decoratorImg} alt="decorator" />
-      </div>
+      </div> */}
     </section>
   );
 };
