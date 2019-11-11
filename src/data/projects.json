@@ -1,0 +1,67 @@
+[
+  {
+    "name": "autoenroll",
+    "title": "Auto Enroll Bot",
+    "tags": [
+      "Python",
+      "Selenium",
+      "Splinter",
+      "Twilio",
+      "AWS"
+    ],
+    "links": [
+      {
+        "icon": "github",
+        "link": "https://github.com/dannyhp1/automatic-enrollment-bot"
+      }
+    ]
+  },
+  {
+    "name": "gradecalculator",
+    "title": "Grade Calculator",
+    "text": "Testing!Testing!Testing!Testing!Testing!Testing!Testing!Testing!Testing!Testing!Testing!",
+    "tags": [
+      "React.js",
+      "Webpack",
+      "HTML5",
+      "CSS3",
+      "MySQL",
+      "Python",
+      "NGINX",
+      "AWS"
+    ],
+    "links": [
+      {
+        "icon": "globe",
+        "link": "https://gradecalculator.dannyhp.com"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/dannyhp1/grade-calculator"
+      }
+    ]
+  },
+  {
+    "name": "flaskblog",
+    "title": "Flask Blog",
+    "tags": [
+      "Python",
+      "Flask",
+      "HTML5",
+      "CSS3",
+      "jQuery",
+      "Heroku",
+      "SQLite"
+    ],
+    "links": [
+      {
+        "icon": "globe",
+        "link": "https://flaskblog.dannyhp.com/"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/dannyhp1/blog-web-app"
+      }
+    ]
+  }
+]

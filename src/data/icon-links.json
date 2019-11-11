@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Linkedin",
+    "icon": "fa-linkedin-square",
+    "url": "https://www.linkedin.com/in/dannyhp1"
+  },
+  {
+    "name": "Github",
+    "icon": "fa-github",
+    "url": "http://github.com/dannyhp1"
+  },
+  {
+    "name": "E-mail",
+    "icon": "fa-envelope-o",
+    "url": "mailto:dpham760@gmail.com"
+  }
+]

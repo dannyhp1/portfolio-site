@@ -1,0 +1,22 @@
+[
+  {
+    "name": "nasa",
+    "title": "Flight SWE Intern",
+    "text": "@NASA JPL"
+  },
+  {
+    "name": "flexport",
+    "title": "Incoming SWE Intern",
+    "text": "@Flexport"
+  },
+  {
+    "name": "amazon",
+    "title": "Incoming SDE",
+    "text": "@Amazon"
+  },
+  {
+    "name": "school",
+    "title": "Attending",
+    "text": "UC Irvine"
+  }
+]
