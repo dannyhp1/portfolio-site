@@ -92,8 +92,9 @@ const About = () => {
               <p className={styles.text}>
                   Hello! My name is Danny Pham.
                   I call many places home. I am from Palm Springs, studied in
-                  Irvine and now live in Los Angeles. 
-                  Making new things with large, positive impact, no matter the medium, sparks my passion.
+                  Irvine and now live in Los Angeles.
+                  Making new things with large, positive impact,
+                  no matter the medium, sparks my passion.
               </p>
             </div>
           </div>
