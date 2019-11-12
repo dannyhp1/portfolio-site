@@ -41,7 +41,7 @@ const ProjectHeader = () => {
             >
               {'    '}
               {'    '}
-              {'What should I start hacking onto now?             '}
+              {'What to start hacking onto now...            '}
               <Typist.Backspace count={30} />
             </Typist>
           </div>
