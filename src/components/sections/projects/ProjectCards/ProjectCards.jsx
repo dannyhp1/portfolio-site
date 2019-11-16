@@ -5,8 +5,6 @@ import { Container } from 'common-ui';
 import { window } from 'utils/SSR';
 import ScrollSpyEffect from 'utils/ScrollSpyEffect';
 
-import decoratorImg from 'images/temp-background.png';
-
 import gradecalculatorImg from 'images/project-gradecalculator.png';
 import autoenrollImg from 'images/project-autoenroll.png';
 import flaskblogImg from 'images/project-flaskblog.png';

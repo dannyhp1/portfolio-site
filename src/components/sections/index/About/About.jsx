@@ -9,7 +9,7 @@ import profileImage from 'images/profile.png';
 import nasaIcon from 'images/icon-nasa.png';
 import flexportIcon from 'images/icon-flexport.png';
 import amazonIcon from 'images/icon-amazon.png';
-import schoolIcon from 'images/icon-school.png';
+import schoolIcon from 'images/icon-ui.png';
 
 import styles from './About.module.scss';
 
@@ -90,9 +90,9 @@ const About = () => {
               </h3>
 
               <p className={styles.text}>
-                  Hello! My name is Danny Pham.
-                  I call many places home. I am from Palm Springs, studied in
-                  Irvine and now live in Los Angeles.
+                  Hello! My name is (name).
+                  I call many places home. I am from (hometown), studied in
+                  (school city) and now live in (residence for work).
                   Making new things with large, positive impact,
                   no matter the medium, sparks my passion.
               </p>

@@ -33,7 +33,7 @@ const ProjectHeader = () => {
             <span className={[styles.toolbarBtn, styles.toolbarBtnGreen].join(' ')} />
           </div>
           <div className={styles.terminalPanel}>
-            danny $ &nbsp;
+            phamtastic $ &nbsp;
             <Typist
               key={typistKey}
               onTypingDone={onTypingDone}

@@ -4,12 +4,12 @@ const ROOT_PATH = path.resolve(__dirname, './src');
 
 module.exports = {
   siteMetadata: {
-    title: 'Danny Pham · Software Engineer',
-    author: 'Danny Pham',
-    description: "Danny Pham's Portfolio",
-    url: 'https://dannyhp.com',
+    title: 'Phamtastic · Software Engineer',
+    author: 'Phamtastic',
+    description: "Phamtastic's Portfolio",
+    url: 'https://phamtastic.netlify.com',
     image: '/screenshot.png',
-    siteUrl: 'https://dannyhp.com',
+    siteUrl: 'https://phamtastic.netlify.com',
   },
   plugins: [
     'gatsby-plugin-robots-txt',
