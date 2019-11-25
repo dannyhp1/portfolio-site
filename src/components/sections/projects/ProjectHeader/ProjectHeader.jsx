@@ -33,7 +33,7 @@ const ProjectHeader = () => {
             <span className={[styles.toolbarBtn, styles.toolbarBtnGreen].join(' ')} />
           </div>
           <div className={styles.terminalPanel}>
-            danny $ &nbsp;
+            dannyhp $ &nbsp;
             <Typist
               key={typistKey}
               onTypingDone={onTypingDone}
@@ -41,7 +41,7 @@ const ProjectHeader = () => {
             >
               {'    '}
               {'    '}
-              {'What to start hacking onto now...            '}
+              {'Currently working on a new project...            '}
               <Typist.Backspace count={30} />
             </Typist>
           </div>
