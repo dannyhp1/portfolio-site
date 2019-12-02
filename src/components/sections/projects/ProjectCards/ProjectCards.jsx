@@ -10,6 +10,7 @@ import decoratorImg from 'images/temp-background.png';
 import gradecalculatorImg from 'images/project-gradecalculator.png';
 import autoenrollImg from 'images/project-autoenroll.png';
 import flaskblogImg from 'images/project-flaskblog.png';
+import coderpadImg from 'images/project-coderpad.png';
 
 import styles from './ProjectCards.module.scss';
 
@@ -17,6 +18,7 @@ const CARD_IMAGES = {
   gradecalculator: gradecalculatorImg,
   autoenroll: autoenrollImg,
   flaskblog: flaskblogImg,
+  coderpad: coderpadImg,
 };
 
 const renderCards = (data) => {
