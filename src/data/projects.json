@@ -1,5 +1,28 @@
 [
   {
+    "name": "coderpad",
+    "title": "Coderpad",
+    "tags": [
+      "Python",
+      "React",
+      "HTML",
+      "CSS",
+      "Docker",
+      "NGINX",
+      "AWS"
+    ],
+    "links": [
+      {
+        "icon": "globe",
+        "link": "https://gradecalculator.dannyhp.com"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/dannyhp1/grade-calculator"
+      }
+    ]
+  },
+  {
     "name": "autoenroll",
     "title": "Auto Enroll Bot",
     "tags": [
@@ -19,9 +42,8 @@
   {
     "name": "gradecalculator",
     "title": "Grade Calculator",
-    "text": "Testing!Testing!Testing!Testing!Testing!Testing!Testing!Testing!Testing!Testing!Testing!",
     "tags": [
-      "React.js",
+      "React",
       "Webpack",
       "HTML5",
       "CSS3",
