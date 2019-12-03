@@ -33,7 +33,7 @@ const Hero = () => {
         <Container className={styles.container}>
           <section className={styles.contentWrapper}>
             <h1 className={styles.title}>Danny Pham</h1>
-            <h4 className={styles.subtitle}>Flight Software Engineer Intern @ NASA JPL</h4>
+            <h4 className={styles.subtitle}>Incoming Software Engineer Intern @ Flexport</h4>
             <p className={styles.text}>
               Software Engineer who focuses on
               making products that solve real world problems
