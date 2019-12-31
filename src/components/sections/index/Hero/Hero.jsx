@@ -2,7 +2,7 @@ import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 import { Module, Container } from 'common-ui';
 import Wave from 'components/widgets/Wave/Wave';
-import heroImage from 'images/developer0-alt.svg';
+import heroImage from 'images/developer_alt.svg';
 import styles from './Hero.module.scss';
 
 const Hero = () => {
