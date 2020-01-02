@@ -6,13 +6,13 @@ const Footer = () => (
   <section className="footer">
     <Container className="footer-container">
       <p className="footer-text footer-text-desktop">
-        Copyright (c) 2019 &nbsp;&nbsp;|&nbsp;&nbsp;
+        Copyright © 2020 &nbsp;&nbsp;|&nbsp;&nbsp;
         <strong>Danny Pham</strong>
         &nbsp;&nbsp;|&nbsp;&nbsp; All right reserved.
       </p>
 
       <p className="footer-text footer-text-mobile">
-        Copyright (c) 2019 &nbsp;&nbsp;|&nbsp;&nbsp;by&nbsp;
+        Copyright © 2020 &nbsp;&nbsp;|&nbsp;&nbsp;by&nbsp;
         <strong>Danny Pham</strong>
         &nbsp;&nbsp;|&nbsp;&nbsp; All right reserved.
       </p>
