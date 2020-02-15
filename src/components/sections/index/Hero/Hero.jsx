@@ -35,9 +35,12 @@ const Hero = () => {
             <h1 className={styles.title}>Danny Pham</h1>
             <h4 className={styles.subtitle}>Software Engineer Intern @ Flexport</h4>
             <p className={styles.text}>
-              Software Engineer who focuses on
+              Software Engineer who strives to be affable
+              and endeavor to be forever self-improving.
+
+              {/* Software Engineer who focuses on
               making products that solve real world problems
-              and make an immediate impact.
+              and make an immediate impact. */}
             </p>
 
             <div className={styles.links}>
