@@ -91,10 +91,10 @@ const About = () => {
 
               <p className={styles.text}>
                   Hello! My name is Danny Pham and I'm a pragmatic software engineer
-                  with southern California. I take pride in getting things done and shipping products with
+                  from southern California. I take pride in getting things done and shipping products with
                   external impact. Given any project, I'm excited to roll up my sleeves,
                   cut through the noise and make it a reality. I'm always looking for new
-                  opportunities, so let's connect if you have interesting projects in mind!
+                  opportunities; let's connect if you have interesting projects in mind!
               </p>
             </div>
           </div>
