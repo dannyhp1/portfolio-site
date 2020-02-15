@@ -5,7 +5,7 @@ import { window } from 'utils/SSR';
 import ScrollSpyEffect from 'utils/ScrollSpyEffect';
 
 import { Container, Button } from 'common-ui';
-import profileImage from 'images/profile.png';
+import profileImage from 'images/profile.jpg';
 import nasaIcon from 'images/icon-nasa.png';
 import flexportIcon from 'images/icon-flexport.png';
 import amazonIcon from 'images/icon-amazon.png';
