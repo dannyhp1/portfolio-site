@@ -41,7 +41,7 @@ const ProjectHeader = () => {
             >
               {'    '}
               {'    '}
-              {'Thinking of a new project...            '}
+              {'Interning at Flexport for Winter 2020!            '}
               <Typist.Backspace count={30} />
             </Typist>
           </div>
