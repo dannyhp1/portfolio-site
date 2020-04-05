@@ -5,14 +5,14 @@
     "text": "@Flexport"
   },
   {
-    "name": "amazon",
-    "title": "Incoming SDE",
-    "text": "@Amazon"
-  },
-  {
     "name": "nasa",
     "title": "Former Flight SWE Intern",
     "text": "@NASA JPL"
+  },
+  {
+    "name": "amazon",
+    "title": "Former SDE Intern",
+    "text": "@Amazon"
   },
   {
     "name": "school",
