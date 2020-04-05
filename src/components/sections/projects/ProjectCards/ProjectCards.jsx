@@ -10,6 +10,7 @@ import decoratorImg from 'images/temp-background.png';
 import autoenrollImg from 'images/project-autoenroll.png';
 import coderpadImg from 'images/project-coderpad.png';
 import pastebinImg from 'images/project-pastebin.png';
+import covid19Img from 'images/project-covid19.png';
 
 import styles from './ProjectCards.module.scss';
 
@@ -17,6 +18,7 @@ const CARD_IMAGES = {
   autoenroll: autoenrollImg,
   coderpad: coderpadImg,
   pastebin: pastebinImg,
+  covid19: covid19Img,
 };
 
 const renderCards = (data) => {
