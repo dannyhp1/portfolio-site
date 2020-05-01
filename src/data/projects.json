@@ -1,24 +1,5 @@
 [
   {
-    "name": "covid19",
-    "title": "COVID-19",
-    "tags": [
-      "React.js",
-      "HTML",
-      "CSS"
-    ],
-    "links": [
-      {
-        "icon": "globe",
-        "link": "https://covid19.dannyhp.com"
-      },
-      {
-        "icon": "github",
-        "link": "https://github.com/dannyhp1/covid19-dashboard"
-      }
-    ]
-  },
-  {
     "name": "coderpad",
     "title": "Coderpad",
     "tags": [
