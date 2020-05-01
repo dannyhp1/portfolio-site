@@ -41,7 +41,7 @@ const ProjectHeader = () => {
             >
               {'    '}
               {'    '}
-              {'Currently working on my own COVID-19 dashboard!           '}
+              {'You miss 100% of the shots you don\'t take.           '}
               <Typist.Backspace count={30} />
             </Typist>
           </div>
