@@ -45,6 +45,28 @@
     ]
   },
   {
+    "name": "pastebin",
+    "title": "Pastebin",
+    "tags": [
+      "Python",
+      "React.js",
+      "HTML",
+      "CSS",
+      "NGINX",
+      "AWS"
+    ],
+    "links": [
+      {
+        "icon": "globe",
+        "link": "https://pastebin.dannyhp.com"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/dannyhp1/pastebin"
+      }
+    ]
+  },
+  {
     "name": "autoenroll",
     "title": "Auto Enroll Bot",
     "tags": [
