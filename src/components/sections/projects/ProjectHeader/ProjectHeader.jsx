@@ -42,7 +42,7 @@ const ProjectHeader = () => {
               {'    '}
               {'    '}
               {'"You can do anything, but not everything."           '}
-              <Typist.Backspace count={30} />
+              <Typist.Backspace count={42} />
             </Typist>
           </div>
         </section>
