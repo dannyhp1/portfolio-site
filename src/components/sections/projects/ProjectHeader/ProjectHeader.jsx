@@ -41,7 +41,7 @@ const ProjectHeader = () => {
             >
               {'    '}
               {'    '}
-              {'You miss 100% of the shots you don\'t take.           '}
+              {'"You can do anything, but not everything."           '}
               <Typist.Backspace count={30} />
             </Typist>
           </div>
