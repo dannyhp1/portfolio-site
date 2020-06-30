@@ -1,28 +1,11 @@
-const { watch, series, parallel, src, dest, gulp } = require('gulp');
-const connect = require('gulp-connect'); // Runs a local webserver
-const open = require('gulp-open'); // Opens a URL in a web browser
+const gulp = require('gulp');
+const sass = require('./build/sass');
+const scripts = require('./build/scripts');
+const images = require('./build/images');
+const sync = require('./build/browsersync');
 
-// Launch Chrome web browser
-// https://www.npmjs.com/package/gulp-open
-function openBrowser(done) {
-    var options = {
-    uri: 'http://localhost:8080'
-    };
-    return src('./')
-    .pipe(open(options));
-    done();
-}
+[sass, scripts, images, sync].forEach(task => {
+  task(gulp);
+});
 
-// Gulp plugin to run a webserver (with LiveReload)
-// https://www.npmjs.com/package/gulp-connect
-function server(done) {
-    return connect.server({
-    root: './',
-    port: 8080,
-    debug: true,
-    });
-    done();
-}
-
-// Default Gulp command
-exports.default = series(openBrowser, server);
+gulp.task('build', gulp.series(['sass', 'scripts', 'images', 'jekyll-build']));
