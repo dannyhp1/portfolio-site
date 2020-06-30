@@ -1,0 +1,39 @@
+# Site settings
+name: Danny Pham
+title: Danny Pham | Software Engineer
+description: Software Engineer who strives to be affable and endeavor to be forever self-improving.
+url: https://dannyhp.com
+baseurl: ''
+email: dpham760@gmail.com
+cover: https://bchiang7.github.io/img/og.png
+logo: https://dannyhp.com/img/logo/logo1.png
+resume: https://dannyhp.com/Danny_Pham_Resume.pdf
+social:
+  - title: email
+    url: mailto:dpham760@gmail.com
+  - title: github
+    url: https://github.com/dannyhp1
+  - title: linkedin
+    url: https://www.linkedin.com/in/dannyhp1
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+keep_files:
+  - 'CNAME'
+  - '.git'
+  - '.gitignore'
+
+plugins_dir:
+  - jekyll-minifier
+  - jekyll-sitemap

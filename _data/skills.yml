@@ -1,0 +1,30 @@
+languages:
+  - item: Python
+  - item: Java
+  - item: Go
+  - item: Ruby
+  - item: JavaScript
+  - item: C++
+  - item: SQL
+
+technologies:
+  - item: React.js
+  - item: Node.js
+  - item: GraphQL
+  - item: Spring
+  - item: Rails
+  - item: Flask
+  - item: JUnit / Mockito
+  - item: pytest
+
+tools:
+  - item: Bash
+  - item: Git
+  - item: Docker
+  - item: Kubernetes
+  - item: Amazon Web Services
+  - item: Linux
+
+other:
+  - item: Agile (Scrum)
+  - item: CI/CD

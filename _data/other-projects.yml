@@ -1,0 +1,31 @@
+- name: Coderpad
+  url: https://core.dannyhp.com/coderpad
+  code: https://github.com/dannyhp1/core
+  description: A web-based collaborative coding platform that allows users to simultaneously write, edit, and execute code.
+  used:
+    - thing: Python
+    - thing: React.js
+    - thing: Docker
+    - thing: NGINX
+    - thing: AWS EC2
+
+- name: Text Drive
+  url: https://pastebin.dannyhp.com/
+  code: https://github.com/dannyhp1/core
+  description: Text storage application that provides users with a platform to create and share snippets of text.
+  used:
+    - thing: Python
+    - thing: React.js
+    - thing: NGINX
+    - thing: AWS EC2
+
+- name: Easy Enroll
+  url: https://github.com/dannyhp1/automatic-enrollment-bot
+  code: https://github.com/dannyhp1/automatic-enrollment-bot
+  description: Python script written during my undergrad to scrape course information and automatically enroll a student when a spot in a course becomes available.
+  used:
+    - thing: Python
+    - thing: Selenium
+    - thing: Splinter
+    - thing: Twilio API
+    - thing: AWS EC2
