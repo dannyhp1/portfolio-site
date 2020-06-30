@@ -4,9 +4,9 @@
   "description": "Software Engineer who strives to be affable and endeavor to be forever self-improving.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dannyhp1/personal-website"
+    "url": "https://github.com/dannyhp1/portfolio-website",
   },
-  "homepage": "https://github.com/dannyhp1/personal-website",
+  "homepage": "https://github.com/dannyhp1/portfolio-website",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve --watch",
