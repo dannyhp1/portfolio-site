@@ -12,9 +12,11 @@ social:
   - title: email
     url: mailto:dpham760@gmail.com
   - title: github
-    url: https://github.com/dannyhp1
+    url: https://www.github.com/dannyhp1
   - title: linkedin
     url: https://www.linkedin.com/in/dannyhp1
+  - title: resume
+    url: https://www.dannyhp.com/Danny_Pham_Resume.pdf
 
 # Build settings
 markdown: kramdown
