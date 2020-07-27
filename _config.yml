@@ -15,8 +15,6 @@ social:
     url: https://www.github.com/dannyhp1
   - title: linkedin
     url: https://www.linkedin.com/in/dannyhp1
-  - title: resume
-    url: https://www.dannyhp.com/Danny_Pham_Resume.pdf
 
 # Build settings
 markdown: kramdown
