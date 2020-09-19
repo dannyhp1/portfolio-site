@@ -24,5 +24,10 @@
     "gulp-imagemin": "6.0.0",
     "gulp-sass": "^4.1.0",
     "gulp-uglify": "3.0.2"
+  },
+  "dependencies": {
+    "bl": "^1.2.3",
+    "http-proxy": "^1.18.1",
+    "yargs-parser": "^13.1.2"
   }
 }
