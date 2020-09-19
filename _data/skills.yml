@@ -1,27 +1,27 @@
 languages:
   - item: Python
-  - item: Java
   - item: Go
+  - item: Java
   - item: Ruby on Rails
   - item: JavaScript
-  - item: C++
   - item: SQL
+  - item: NoSQL
 
 technologies:
   - item: React.js
   - item: Node.js
   - item: GraphQL
-  - item: Spring
+  - item: Protocol Buffers
   - item: Flask
   - item: JUnit / Mockito
   - item: pytest
 
 tools:
-  - item: Bash
   - item: Git
+  - item: gRPC
   - item: Docker
   - item: Kubernetes
-  - item: Amazon Web Services
+  - item: AWS
   - item: Linux
 
 other:
