@@ -11,7 +11,18 @@
     justify-content: center;
     align-items: center;
 
-    &__ring {
+    &__ring__red {
+      position: absolute;
+      width: 25px;
+      height: 25px;
+      animation: pulsate 2s ease-out;
+      animation-iteration-count: infinite;
+      opacity: 0;
+      border: 3px solid $red;
+      border-radius: 30px;
+    }
+
+    &__ring__green {
       position: absolute;
       width: 25px;
       height: 25px;
@@ -19,6 +30,17 @@
       animation-iteration-count: infinite;
       opacity: 0;
       border: 3px solid $green;
+      border-radius: 30px;
+    }
+
+    &__ring__yellow {
+      position: absolute;
+      width: 25px;
+      height: 25px;
+      animation: pulsate 2s ease-out;
+      animation-iteration-count: infinite;
+      opacity: 0;
+      border: 3px solid $yellow;
       border-radius: 30px;
     }
 
@@ -36,11 +58,27 @@
       }
     }
 
-    &__led {
+    &__led__red {
+      position: absolute;
+      width: 13px;
+      height: 13px;
+      background: $red;
+      border-radius: 100%;
+    }
+
+    &__led__green {
       position: absolute;
       width: 13px;
       height: 13px;
       background: $green;
+      border-radius: 100%;
+    }
+
+    &__led__yellow {
+      position: absolute;
+      width: 13px;
+      height: 13px;
+      background: $yellow;
       border-radius: 100%;
     }
   }
