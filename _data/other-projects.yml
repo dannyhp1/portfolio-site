@@ -1,5 +1,5 @@
 - name: Coderpad
-  url: https://core.dannyhp.com/coderpad
+  url: https://github.com/dannyhp1/core
   code: https://github.com/dannyhp1/core
   description: A web-based collaborative coding platform that allows users to simultaneously write, edit, and execute code.
   used:
@@ -10,7 +10,7 @@
     - thing: AWS EC2
 
 - name: Text Drive
-  url: https://pastebin.dannyhp.com/
+  url: https://github.com/dannyhp1/core
   code: https://github.com/dannyhp1/core
   description: Text storage application that provides users with a platform to create and share snippets of text.
   used:
