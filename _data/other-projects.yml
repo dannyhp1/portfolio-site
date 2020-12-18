@@ -1,31 +1,39 @@
-- name: Coderpad
-  url: https://github.com/dannyhp1/core
-  code: https://github.com/dannyhp1/core
-  description: A web-based collaborative coding platform that allows users to simultaneously write, edit, and execute code.
+- name: Code with Me
+  url: https://codewithme.dannyhp.com
+  code: https://github.com/dannyhp1/code-with-me
+  description: Web-based interactive coding platform that allows users to pair program to write, edit, and execute code.
   used:
+    - thing: AWS (EC2)
+    - thing: React
+    - thing: Express
+    - thing: JavaScript
+    - thing: Flask
     - thing: Python
-    - thing: React.js
-    - thing: Docker
-    - thing: NGINX
-    - thing: AWS EC2
 
-- name: Text Drive
-  url: https://github.com/dannyhp1/core
-  code: https://github.com/dannyhp1/core
-  description: Text storage application that provides users with a platform to create and share snippets of text.
+- name: PDF Merger
+  url: https://pdfmerger.dannyhp.com
+  code: https://github.com/dannyhp1/pdf-merger
+  description: Application that allows users to merge multiple PDF documents into single document with one simple click.
   used:
-    - thing: Python
-    - thing: React.js
-    - thing: NGINX
-    - thing: AWS EC2
+    - thing: React
+    - thing: JavaScript
 
-- name: Easy Enroll
+- name: Auto Enroll
   url: https://github.com/dannyhp1/automatic-enrollment-bot
   code: https://github.com/dannyhp1/automatic-enrollment-bot
-  description: Python script written during my undergrad to scrape course information and automatically enroll a student when a spot in a course becomes available.
+  description: Script written during my undergrad to scrape course information and automatically enroll a student in the course when a spot becomes available.
   used:
-    - thing: Python
     - thing: Selenium
     - thing: Splinter
     - thing: Twilio API
-    - thing: AWS EC2
+    - thing: Python
+
+- name: Grade Calculator
+  url: https://gradecalculator.dannyhp.com
+  code: https://github.com/dannyhp1/grade-calculator
+  description: Platform that provides students with a tool to calculate their grade.
+  used:
+    - thing: React
+    - thing: Postgres
+    - thing: Flask
+    - thing: Python
