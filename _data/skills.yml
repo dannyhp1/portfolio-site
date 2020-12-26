@@ -4,7 +4,7 @@ languages:
   - item: Java
   - item: TypeScript
   - item: JavaScript
-  - item: Ruby on Rails
+  - item: Ruby
   - item: SQL
 
 frameworks:
@@ -13,6 +13,7 @@ frameworks:
   - item: Express
   - item: Socket.io
   - item: GraphQL
+  - item: Rails
   - item: Protocol Buffers
   - item: Selenium
   - item: PostgresSQL
