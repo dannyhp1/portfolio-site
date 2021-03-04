@@ -1,14 +1,24 @@
-- name: Code with Me
-  url: https://codewithme.dannyhp.com
-  code: https://github.com/dannyhp1/code-with-me
-  description: Web-based interactive coding platform that allows users to pair program to write, edit, and execute code.
+- name: Coderpad
+  url: https://coderpad.dannyhp.com
+  code: https://github.com/dannyhp1/coderpad
+  description: Web-based interactive coding platform that allows users to write, edit, and execute code.
   used:
-    - thing: AWS (EC2)
     - thing: React
     - thing: Express
     - thing: JavaScript
     - thing: Flask
     - thing: Python
+
+- name: Pastebin
+  url: https://pastebin.dannyhp.com/
+  code: https://github.com/dannyhp1/pastebin
+  description: Text storage application that allows users to save snippets of code.
+  used:
+    - thing: React
+    - thing: JavaScript
+    - thing: Flask
+    - thing: Python
+    - thing: PostgreSQL
 
 - name: PDF Merger
   url: https://pdfmerger.dannyhp.com
