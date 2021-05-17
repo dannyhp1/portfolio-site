@@ -2,21 +2,21 @@ languages:
   - item: Python
   - item: Go
   - item: Java
-  - item: TypeScript
-  - item: JavaScript
   - item: Ruby
+  - item: JavaScript
+  - item: TypeScript
   - item: SQL
 
 frameworks:
-  - item: Flask
   - item: React
-  - item: Express
+  - item: Node.js
+  - item: Flask
   - item: Socket.io
   - item: GraphQL
   - item: Rails
   - item: Protocol Buffers
   - item: Selenium
-  - item: PostgresSQL
+  - item: PostgreSQL
   - item: Kafka
 
 tools:
@@ -26,4 +26,10 @@ tools:
   - item: Linux
   - item: Agile
   - item: CI/CD
-  - item: AWS
+
+aws:
+  - item: ECS on EC2
+  - item: DynamoDB
+  - item: Lambda
+  - item: Kinesis
+  - item: SNS/SQS
